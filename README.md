@@ -8,6 +8,11 @@ Activate the virtual environment and install dependencies:
 
 `pip install -r requirements.txt`
 
+## Useful Django Commands
+- `manage.py makemigrations` Generates new migration files based on recent changes to models (should be run before migrate)
+- `manage.py migrate` Applies migrations to the DB (should be run after makemigrations)
+- `manage.py runserver` Starts the local development server
+
 ## Endpoints
 
 The following endpoints will provide a response:
