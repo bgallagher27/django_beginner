@@ -12,6 +12,8 @@ Activate the virtual environment and install dependencies:
 - `manage.py makemigrations` Generates new migration files based on recent changes to models (should be run before migrate)
 - `manage.py migrate` Applies migrations to the DB (should be run after makemigrations)
 - `manage.py runserver` Starts the local development server
+- `manage.py check` Checks the project for issues
+- [Django admin and manage.py documentation](https://docs.djangoproject.com/en/5.1/ref/django-admin/)
 
 ## Endpoints
 
