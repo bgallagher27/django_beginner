@@ -15,6 +15,11 @@ Activate the virtual environment and install dependencies:
 - `manage.py check` Checks the project for issues
 - [Django admin and manage.py documentation](https://docs.djangoproject.com/en/5.1/ref/django-admin/)
 
+## Update Database Models
+- Change the models: in any `models.py` files
+- Run: `python manage.py makemigrations` - create migrations
+- Run: `python manage.py migrate` - run database migration
+
 ## Endpoints
 
 The following endpoints will provide a response:
