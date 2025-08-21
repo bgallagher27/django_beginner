@@ -29,9 +29,9 @@ The following endpoints will provide a response:
 
 ### DONE
 - [Part 1](https://docs.djangoproject.com/en/5.1/intro/tutorial01/)
+- [Part 2](https://docs.djangoproject.com/en/5.1/intro/tutorial02/)
 
 ### TODO
-- [Part 2](https://docs.djangoproject.com/en/5.1/intro/tutorial02/)
 - [Part 3](https://docs.djangoproject.com/en/5.1/intro/tutorial03/)
 - [Part 4](https://docs.djangoproject.com/en/5.1/intro/tutorial04/)
 - [Part 5](https://docs.djangoproject.com/en/5.1/intro/tutorial05/)
